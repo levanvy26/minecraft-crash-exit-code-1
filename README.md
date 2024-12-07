@@ -1,3 +1,7 @@
+#helpmeplease
+#i really wanna play this game but idk how this code work
+
+
 11:20:29.521
 launcher
 main
